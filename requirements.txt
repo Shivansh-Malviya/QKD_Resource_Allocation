@@ -1,0 +1,2 @@
+# Installing the local package in editable mode along with its dependencies
+-e .

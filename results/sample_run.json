@@ -1,0 +1,38 @@
+{
+  "config": "configs/six_node.yaml",
+  "seed": 42,
+  "k": 3,
+  "max_cr": 20,
+  "step": 5,
+  "x_values": [
+    5,
+    10,
+    15,
+    20
+  ],
+  "srcr_values": [
+    0.6,
+    0.3,
+    0.26666666666666666,
+    0.2
+  ],
+  "nsp_values": [
+    0.7,
+    0.36585365853658536,
+    0.2833333333333333,
+    0.2375
+  ],
+  "allocated_counts": [
+    3,
+    3,
+    4,
+    4
+  ],
+  "blocked_counts": [
+    2,
+    7,
+    11,
+    16
+  ],
+  "note": "Generated from a seeded repository demonstration sweep."
+}

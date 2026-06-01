@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Citation metadata for the repository software and underlying thesis context."
+authors:
+  - family-names: Malviya
+    given-names: Shivansh
+    affiliation: "Indian Institute of Science Education and Research Pune"
+title: "QKD-ODCN Resource Allocation"
+version: 0.1.0
+date-released: 2024-10-31
+repository-code: "https://github.com/Shivansh-Malviya/QKD_Resource_Allocation"
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: Malviya
+      given-names: Shivansh
+  title: "Study and Design of Efficient and Resilient Quantum Key Distribution System"
+  school: "Indian Institute of Science Education and Research Pune"
+  year: 2024
+  month: 10
+  thesis-type: "BS-MS Dual Degree Thesis"
